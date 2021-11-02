@@ -1,0 +1,3 @@
+# sayfalar-gecis
+
+wtech odev
